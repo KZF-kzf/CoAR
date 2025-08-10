@@ -20,7 +20,7 @@ CoAR is a simple yet effective framework for injecting subject or style concepts
 ## 📊 Demo
 
 <p align="center">
-  <img src="assets/teaser.png" alt="Qualitative Results" width="90%">
+  <img src="assets/teaser.png" alt="Qualitative Results" width="80%">
 </p>
 
 <p align="center">

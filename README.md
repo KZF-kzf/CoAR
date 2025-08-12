@@ -40,9 +40,12 @@ CoAR is a simple yet effective framework for injecting subject or style concepts
 
 ## 📝 Citation
 ```bibtex
-@article{YourPaper2025,
-  title={CoAR: Concept Injection into Autoregressive Models for Personalized Text-to-Image Generation},
-  author={...},
-  journal={...},
-  year={2025}
+@misc{wu2025coarconceptinjectionautoregressive,
+      title={CoAR: Concept Injection into Autoregressive Models for Personalized Text-to-Image Generation}, 
+      author={Fangtai Wu and Mushui Liu and Weijie He and Wanggui He and Hao Jiang and Zhao Wang and Yunlong Yu},
+      year={2025},
+      eprint={2508.07341},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2508.07341}, 
 }

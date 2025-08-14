@@ -9,7 +9,7 @@ Concept Injection into Autoregressive Models for Personalized Text-to-Image Gene
 ---
 
 ## 🔍 Overview
-CoAR is a simple yet effective framework for injecting subject or style concepts into multi-modal autoregressive (AR) models without modifying any pretrained parameters. By leveraging a small set of **layer-wise multi-modal learnable tokens**, CoAR achieves high-quality, efficient customization for both subject-driven personalization and subject-style compositional generation.
+CoAR is a simple yet effective framework for injecting subject or style concepts into multi-modal autoregressive (AR) models without modifying any pretrained parameters. By leveraging a small set of **layer-wise multi-modal learnable tokens**, CoAR achieves high-quality, efficient customization for both subject-driven personalization and **training-free** subject-style compositional generation.
 
 <p align="center">
   <img src="assets/framework.png" alt="CoAR Framework" width="80%">

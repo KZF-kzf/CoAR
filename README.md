@@ -1,5 +1,6 @@
 # CoAR
 Concept Injection into Autoregressive Models for Personalized Text-to-Image Generation
+[![arXiv]([https://img.shields.io/badge/arXiv-2508.07341-b31b1b.svg)](https://arxiv.org/abs/2508.07341](https://arxiv.org/abs/2508.07341))
 
 ## 📌 TODO List
 - [ ] Subject-driven inference scripts  

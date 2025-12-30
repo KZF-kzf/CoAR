@@ -22,9 +22,9 @@ DCoAR is a simple yet effective framework for injecting subject or style concept
 
 ## 📝 Citation
 ```bibtex
-@misc{wu2025coarconceptinjectionautoregressive,
-      title={DCoAR: Concept Injection into Autoregressive Models for Personalized Text-to-Image Generation}, 
-      author={Fangtai Wu and Mushui Liu and Weijie He and Wanggui He and Hao Jiang and Zhao Wang and Yunlong Yu},
+@misc{wu2025dcoardeepconceptinjection,
+      title={DCoAR: Deep Concept Injection into Unified Autoregressive Models for Personalized Text-to-Image Generation}, 
+      author={Fangtai Wu and Mushui Liu and Weijie He and Zhao Wang and Yunlong Yu},
       year={2025},
       eprint={2508.07341},
       archivePrefix={arXiv},

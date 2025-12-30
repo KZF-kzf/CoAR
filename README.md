@@ -20,27 +20,6 @@ DCoAR is a simple yet effective framework for injecting subject or style concept
 
 ---
 
-## 📊 Qualitative Demo
-
-<p align="center">
-  <img src="assets/teaser.png" alt="Qualitative Results" width="80%">
-</p>
-
-<p align="center">
-  <img src="assets/subject_comp_large.png" alt="Qualitative Results" width="80%">
-</p>
-
-<p align="center">
-  <img src="assets/style_sample.png" alt="Qualitative Results" width="80%">
-</p>
-
-## 📈 Performance Comparison on DreamBench
-<p align="center">
-  <img src="assets/compare.jpg" alt="Quantitative Results" width="80%">
-</p>
-
----
-
 ## 📝 Citation
 ```bibtex
 @misc{wu2025coarconceptinjectionautoregressive,
